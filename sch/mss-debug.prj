@@ -1,0 +1,4 @@
+schematics mss-debug.sch
+output-name ../pcb/mss-debug
+skip-m4
+elements-dir ../../ise-footprints
